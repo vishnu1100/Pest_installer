@@ -20,7 +20,7 @@ Try to don't rename the javascript file,  if necessary also change the name to t
 
 ## Demo
 
-Check out the live demo of MovieHub [here](https://vishnu1100.github.io/Pest_installer/).
+Check out the live demo of housefly [here](https://vishnu1100.github.io/Pest_installer/).
 
 
 
