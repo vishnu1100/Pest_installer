@@ -1,6 +1,6 @@
 # PEST _ INSTALLER
 
-This is a free House fly addon capable of  installing  to any website and prank your friends. Some  housefly will appear abour your page and fly randomly
+This is a free House fly addon capable of  installing  to any website and prank your friends. Some  housefly will appear above your page and fly randomly.
 
 
 ## Installation
